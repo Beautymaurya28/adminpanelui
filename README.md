@@ -17,7 +17,7 @@ Styling: Tailwind CSS
 Bundler: Vite
 
 
-git clone https://github.com/yourusername/adminpanelui.git
+
 cd adminpanelui
 npm install
 npm run dev
